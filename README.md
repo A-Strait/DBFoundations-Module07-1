@@ -1,10 +1,10 @@
-###### Susan Lee 
-###### Nov. 27, 2020 
-###### IT Foundations of Database Management
-###### Assignment07
-###### https://github.com/SusanblUW/DBFoundations-Module07
 
-## SQL Functions
+# SQL Functions
+**Dev:** *Susan Lee*  
+**Date:** *11.27.2020*  
+**Class:** *IT Foundations of Database Management*  
+**Assignment:** *Assignment07*  
+**Document Location:** *https://github.com/SusanblUW/DBFoundations-Module07*  
 
 ### Introduction
 In this paper I will discuss different types of SQL User Defined Functions (UDF) and similarities and differences between them.   I hope this can serve as helpful reference to future SQL developers so correct function can be utilized when working with SQL Database.  
