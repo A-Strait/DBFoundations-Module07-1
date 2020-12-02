@@ -9,7 +9,7 @@
 ### Introduction
 In this paper I will discuss different types of SQL User Defined Functions (UDF) and similarities and differences between them.   I hope this can serve as helpful reference to future SQL developers so correct function can be utilized when working with SQL Database.  
 
-### Unser Defined Functions
+### User Defined Functions
 There are various SQL Server built-in functions that are extremely helpful to most users.  These built-in functions can be easily found in the web.  They can also be accessible through SQL Database by highlighting a function and pressing F1 on the keyboard.  Even though there are many built-in functions available, users can also create their own custom functions.  This known as User Defined Functions (UDFs).  The 3 different UDFs consists of Scalar, Inline, Multi-Statement Functions.  
 
 ### Scalar Function
